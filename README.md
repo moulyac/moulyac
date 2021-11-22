@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Next.js
+- 🌱 I’m currently learning Node.js
+
+
 <!--
 **moulyac/moulyac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
