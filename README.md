@@ -1,4 +1,4 @@
-# Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there!! 
 
 Hello there! I am Moulya from India, Bangaluru. Front-end developer in <a href='https://www.antstack.io/'>Antstack</a>. I am currently pursuing MERN stack and learning typescript and vanilla-extract. 
 <p>My hobbies are photography, cooking or baking, gardening, watching asian series or movie, music lover.</p>
